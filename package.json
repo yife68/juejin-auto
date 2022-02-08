@@ -1,0 +1,25 @@
+{
+  "name": "juejin-helper",
+  "version": "1.0.0",
+  "description": "稀土掘金助手：签到、抽奖、沾喜气、海底淘金、自动化工作流。",
+  "author": "Derek Li",
+  "license": "MIT",
+  "scripts": {
+    "checkin": "node ./scripts/checkin.js",
+    "lottery": "node ./scripts/lottery.js",
+    "seaGold": "node ./scripts/seaGold.js"
+  },
+  "dependencies": {
+    "fast-astar": "^1.0.6",
+    "juejin-helper": "^0.1.0",
+    "nodemailer": "^6.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iDerekLi/juejin-helper.git"
+  },
+  "homepage": "https://github.com/iDerekLi/juejin-helper#readme",
+  "bugs": {
+    "url": "https://github.com/iDerekLi/juejin-helper/issues"
+  }
+}
