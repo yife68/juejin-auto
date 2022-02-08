@@ -397,6 +397,6 @@ run(process.argv.splice(2)).catch(error => {
   console.log(error);
   email({
     subject: "海底掘金游戏",
-    html: `<b>Error</b><pre>${error.message}</pre><div>如版本过低请前往升级: <a href="https://github.com/iDerekLi/juejin-helper">juejin-helper</a></div>`
+    html: `<b>Error</b><pre>${error.message}</pre><div>如版本过低请前往升级: <a href="https://github.com/yife68/juejin-auto/">juejin-helper</a></div>`
   });
 });
