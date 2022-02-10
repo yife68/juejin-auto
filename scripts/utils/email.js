@@ -38,7 +38,7 @@ async function main({ subject, text, html }) {
     html: template, // html body
     attachments: [{
       filename: "logo.svg",
-      path: path.resolve(__dirname, "../resources/logo.svg"),
+      path: path.resolve(__dirname, "../../resources/logo.svg"),
       cid: 'logo.svg' //same cid value as in the html img src
     }]
   });
