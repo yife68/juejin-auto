@@ -37,9 +37,9 @@ async function main({ subject, text, html }) {
     // text, // plain text body
     html: template, // html body
     attachments: [{
-      filename: "logo.svg",
+      filename: "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.0/2022/02.10/2.svg",
       path: path.resolve(__dirname, "https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.0/2022/02.10/2.svg"),
-      cid: 'logo.svg' //same cid value as in the html img src
+      cid: 'https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.0/2022/02.10/2.svg' //same cid value as in the html img src
     }]
   });
 
