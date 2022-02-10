@@ -56,7 +56,7 @@ DevTools截图:
 
 # 下载地址
 {% note success flat %}
-蓝奏云下载：https://meuicat.lanzoul.com/
+蓝奏云下载：https://meuicat.lanzoul.com/b0119wtsb
 {% endnote %}
 
 {% note info modern %}
