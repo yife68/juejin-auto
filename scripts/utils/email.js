@@ -18,7 +18,7 @@ async function main({ subject, text, html }) {
   const template = `
     <section>
       <header style="padding: 10px 0; border-bottom: 1px solid #f1f1f1;">
-        <img src="cid:logo.svg" width="120" height="24" alt="稀土掘金" />
+        <img src="cid:https://cdn.jsdelivr.net/gh/yife68/iCat-Pic@v3.0.0/2022/02.10/2.svg" width="120" height="24" alt="稀土掘金" />
       </header>
       <main style="padding: 10px;">
         ${html ? html : `<pre style="margin: 0;">${text}</pre>`}
