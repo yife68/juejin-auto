@@ -55,10 +55,6 @@ DevTools截图:
 项目直达链接：https://github.com/yife68/juejin-auto/
 
 # 下载地址
-{% note success flat %}
 蓝奏云下载：https://meuicat.lanzoul.com/b0119wtsb
-{% endnote %}
 
-{% note info modern %}
 蓝奏云访问码请到公众号回复：612
-{% endnote %}
